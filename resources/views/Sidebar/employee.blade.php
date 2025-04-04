@@ -74,7 +74,7 @@
             <div class="modal-content shadow-lg rounded-4">
                 <!-- Modal Header -->
                 <div class="modal-body d-flex justify-content-center align-items-center" style="background-color:rgba(30, 71, 206, 0.65); color: white;">
-                    <h5 class="modal-title" id="addStudentModalLabel">Add Student</h5>
+                    <h5 class="modal-title" id="addStudentModalLabel">Add Employee</h5>
                     <button type="button" class="btn-close btn-close-white position-absolute end-0 me-3" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
 
@@ -158,7 +158,7 @@
                         <!-- Submit Button -->
                         <div class="modal-footer mt-4">
                             <button type="button" class="btn btn-outline-secondary" data-bs-dismiss="modal">Close</button>
-                            <button type="submit" class="btn btn-primary">Save Student</button>
+                            <button type="submit" class="btn btn-primary">Save Employee</button>
                         </div>
                     </form>
                 </div>
@@ -172,7 +172,7 @@
             <div class="modal-content shadow-lg rounded-4 bg-white">
                 <!-- Modal Header -->
                 <div class="modal-body d-flex justify-content-center align-items-center" style="background-color:rgba(30, 71, 206, 0.65); color: white;">
-                    <h5 class="modal-title" id="importStudentModalLabel">Upload Student Data File</h5>
+                    <h5 class="modal-title" id="importStudentModalLabel">Upload Employee Data File</h5>
                     <button type="button" class="btn-close btn-close-white position-absolute end-0 me-3" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
 
